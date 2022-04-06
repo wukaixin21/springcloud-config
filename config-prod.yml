@@ -1,4 +1,2 @@
-
-spring:
-  application:
-    name:  prod
+config
+  info: config-prod.yml
